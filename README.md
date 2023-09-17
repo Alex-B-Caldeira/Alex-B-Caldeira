@@ -1,5 +1,5 @@
-<br>Olá, sou Alex Caldeira.<br/>
-- 👀 I’m interested in Technology and Development maybe Quality assurance
+<h1>Olá, sou Alex Caldeira.<h1/>
+- 👀 I’m interested in Technology and Development 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me Social medias or e-mail
 
